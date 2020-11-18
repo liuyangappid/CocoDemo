@@ -1,0 +1,22 @@
+{
+  "name": "CocoDemo",
+  "version": "0.1.0",
+  "summary": "A short description of CocoDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liuyangappid/CocoDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liuyangappid": "xuanzong@meili-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/liuyangappid/CocoDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CocoDemo/Classes/**/*"
+}
